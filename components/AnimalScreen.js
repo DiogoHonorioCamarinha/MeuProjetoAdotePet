@@ -109,7 +109,7 @@ function AnimalScreen(){
 
                         <View style={{ borderRadius: 14, overflow: 'hidden' }}>
                             <Button
-                                title={editarId ? "Atualizar pet" : "Publicar pet"}
+                                title={editarId ? "Atualizar" : "Publicar"}
                                 onPress={salvarAnimal}
                                 color="#4f8d7a"
                             />
