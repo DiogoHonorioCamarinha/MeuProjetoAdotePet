@@ -89,7 +89,7 @@ function AnimalScreen(){
                             style={{ backgroundColor: '#f4efe8', borderRadius: 14, paddingHorizontal: 14, paddingVertical: 12, marginBottom: 12 }}
                         />
                         <TextInput
-                            placeholder="Idade"
+                            placeholder="Faixa etária"
                             value={idade}
                             onChangeText={setIdade}
                             style={{ backgroundColor: '#f4efe8', borderRadius: 14, paddingHorizontal: 14, paddingVertical: 12, marginBottom: 12 }}
