@@ -27,7 +27,7 @@ AdotePet/
 ## Instruções para rodar o projeto:
 1. Clone o projeto localmente ou faça download do ZIP:
    ```bash
-   git clone https://github.com/<seu-usuario>/<seu-repositorio>.git
+   git clone https://github.com/DiogoHonorioCamarinha/MeuProjetoAdotePet.git
    ```
    ou use o botão "Download ZIP" e extraia o conteúdo.
 2. Acesse a pasta do projeto:
